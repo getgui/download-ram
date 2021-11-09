@@ -1,0 +1,7 @@
+AppName: Download RAM
+Descrition: Doubles your computer RAM
+Author: Robin Banks
+InstallScript: scripts/install.sh
+UninstallScript: scripts/uninstall.sh
+IconPath: icons/medium.png
+RequiresClone: False
