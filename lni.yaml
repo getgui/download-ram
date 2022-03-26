@@ -1,5 +1,5 @@
 AppName: Download RAM
-Descrition: Doubles your computer RAM
+Description: Doubles your computer RAM
 Author: Robin Banks
 InstallScript: scripts/install.sh
 UninstallScript: scripts/uninstall.sh
