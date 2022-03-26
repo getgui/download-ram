@@ -1,5 +1,8 @@
 AppName: Download RAM
-Description: Doubles your computer RAM
+Description: >
+Doubles your computer RAM. Requires a 64-bit operating system.
+Allows cloud storage to be used as a RAM drive. Do not use system
+while this is running or it may brick your computer.
 Author: Robin Banks
 InstallScript: scripts/install.sh
 UninstallScript: scripts/uninstall.sh
