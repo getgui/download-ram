@@ -1,0 +1,8 @@
+Get-String name "Enter RAM group name"
+Get-Path path "Select installation path"
+Get-Option ram_capacity "RAM Capacity"
+- 4_GB "4 GB"
+- 8_GB "8 GB"
+- 16_GB "16 GB"
+Get-Option-End
+Get-Bool allusers "Install for all users"
