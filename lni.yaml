@@ -8,3 +8,4 @@ InstallScript: scripts/install.sh
 UninstallScript: scripts/uninstall.sh
 IconPath: icons/medium.png
 RequiresClone: False
+Options: scripts/options
